@@ -10,18 +10,18 @@ Estou focado em meus estudos em cursos adquiridos atualmente. Com uma oportunida
 Tenho alguns projetos que trabalhei, salvos aqui mesmo no github.
 
 Esse é o relatório de vendas que comentei com você, foi desenvolvido em React acompanhando um professor (foi usado um banco de dados para estudos, então demora um pouco para carregar).
-https://github.com/FernandoDevJava/Dsmeta
 
+https://github.com/FernandoDevJava/Dsmeta
 https://relatorio-de-vendas.netlify.app/
 
 Esse é uma tela de login que fiz para praticar, esse projeto foi feito em React com a função de ocultar a senha.
-https://github.com/FernandoDevJava/tela-login
 
+https://github.com/FernandoDevJava/tela-login
 https://teladeloginv1.netlify.app/
 
 Esse é um repositorio pessoal que estou trabalhando. Feito em HTML, CSS e algumas funções em JavaScript. Pode ter algum bug, mas estou trabalhando nisso.
-https://github.com/FernandoDevJava/Repository
 
+https://github.com/FernandoDevJava/Repository
 https://repositorio-fernandomachado.netlify.app/
 
 <!---
