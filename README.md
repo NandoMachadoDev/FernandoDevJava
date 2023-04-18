@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FernandoDevJava
-- 👀 I’m interested in ... Developer Front End React
-- 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ...  Desenvolvedor Front End  
-- 📫 How to reach me ...  Tel: (19) 9 9718-0508     E-mail: fernando-pgt@outlook.com
+- 👋 Hi, I’m Fernando Machado
+- 👀 I’m interested in ... Developer Front with React end Android with Kotlin
+- 🌱 I’m currently learning ... React, JavaScript, TypeScript, Kotlin, Java
+- 💞️ I’m looking to collaborate on ...  Desenvolvedor Front End 
+- 📫 How to reach me ...  Tel: (19) 9 9718-0508     E-mail: fernando-pgt@outlook.com    Portfólio:  https://repositorio-fernandomachado.netlify.app/
 
 No momento, estou a procura de uma oportunidade de trabalho de Desenvolvedor Front End React.  Mas tenho a intenção de ser um Desenvolvedor Full Stack futuramente.
 Estou focado em meus estudos em cursos adquiridos atualmente. Com uma oportunidade de trabalho nessa área eu conseguiria absover muito mais conhecimento do que estou conseguindo no momento.
